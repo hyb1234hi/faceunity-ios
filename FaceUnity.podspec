@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.version      = '1.0.0'
   spec.license      = 'MIT'
   spec.summary      = 'FaceUnity skin and body beautify'
-  spec.homepage     = 'https://git.xiangmu.tech'
+  spec.homepage     = 'https://github.com/ldcgeek/faceunity-ios'
   spec.author       = 'FaceUnity'
   spec.source       = { :git => '', :tag => '#{spec.version}'}
   spec.subspec 'FaceUnity' do |fs|
