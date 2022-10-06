@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   end
   spec.requires_arc = true
   spec.static_framework = true
-  spec.dependency 'AgoraRtcEngine_iOS'
+  spec.dependency 'AgoraRtcEngine_iOS', '3.5.0'
   spec.dependency 'AGMCapturer_iOS'
   spec.dependency 'MJExtension'
   spec.dependency 'Nama', '7.2.0'
